@@ -2,7 +2,7 @@
 
 > 读书分享
 
-## Build Setup
+## 快速构建指南
 
 ``` bash
 # install dependencies
@@ -18,4 +18,6 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 技术分析报告
+
+- [2018.6.6研究任务总结](./doc/2018.6.6研究任务.md)
